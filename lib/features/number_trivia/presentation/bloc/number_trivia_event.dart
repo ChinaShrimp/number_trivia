@@ -10,7 +10,6 @@ class GetTriviaForConcreteNumber implements NumberTriviaEvent {
   GetTriviaForConcreteNumber(this.numberString);
 
   @override
-  // TODO: implement props
   List get props => null;
 }
 
